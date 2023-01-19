@@ -1,10 +1,15 @@
 # ChinaMap
+
 This is a China map,which contains province data and city data.
 
 Draw maps of China and provinces based on d3.js.
 Support the calculation of gradient color based on data to render the background of each province.
 Support moving the mouse to display the name and data of the province.
 Click the province to display the map of the province.
+
+## Demo
+
+![](./Demo.png)
 
 ## Usage：
 
