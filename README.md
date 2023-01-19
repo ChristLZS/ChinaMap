@@ -11,7 +11,7 @@ Click the province to display the map of the province.
 
 ![](./Demo.png)
 
-## Usage：
+## Usage
 
 1. Download
 2. npm install installation
